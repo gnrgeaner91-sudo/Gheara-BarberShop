@@ -1,0 +1,1 @@
+document.querySelectorAll('.cards div,.gallery div').forEach(e=>e.onclick=()=>e.style.boxShadow='0 0 20px gold');
